@@ -8,3 +8,6 @@ operations with real time evaluations.
 
 https://user-images.githubusercontent.com/53591107/204351594-0428ae6e-57ff-4033-a3a6-5bcb7ae624b4.mp4
 
+# NOTE 
+
+> Every other algorithms and operations are implemented in the same menu Driven Way
